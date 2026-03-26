@@ -1,0 +1,5 @@
+{
+  "name": "Lorem Ipsum Generator",
+  "description": "A clean and efficient tool to generate random Lorem Ipsum text by words, sentences, or paragraphs.",
+  "requestFramePermissions": []
+}
